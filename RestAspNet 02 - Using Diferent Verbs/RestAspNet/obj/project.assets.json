@@ -13031,11 +13031,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amanda Queiroz Nunes\\Documents\\ProjetoAulas\\RestAspNet\\RestAspNet 01 - Calculator\\RestAspNet\\RestAspNet.csproj",
+      "projectUniqueName": "C:\\Users\\Amanda Queiroz Nunes\\Documents\\ProjetoAulas\\RestAspNet\\RestAspNet 02 - Using Diferent Verbs\\RestAspNet\\RestAspNet.csproj",
       "projectName": "RestAspNet",
-      "projectPath": "C:\\Users\\Amanda Queiroz Nunes\\Documents\\ProjetoAulas\\RestAspNet\\RestAspNet 01 - Calculator\\RestAspNet\\RestAspNet.csproj",
+      "projectPath": "C:\\Users\\Amanda Queiroz Nunes\\Documents\\ProjetoAulas\\RestAspNet\\RestAspNet 02 - Using Diferent Verbs\\RestAspNet\\RestAspNet.csproj",
       "packagesPath": "C:\\Users\\Amanda Queiroz Nunes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amanda Queiroz Nunes\\Documents\\ProjetoAulas\\RestAspNet\\RestAspNet 01 - Calculator\\RestAspNet\\obj\\",
+      "outputPath": "C:\\Users\\Amanda Queiroz Nunes\\Documents\\ProjetoAulas\\RestAspNet\\RestAspNet 02 - Using Diferent Verbs\\RestAspNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

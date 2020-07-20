@@ -20,3 +20,14 @@ C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 01 - 
 C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 01 - Calculator\RestAspNet\obj\Debug\netcoreapp2.0\RestAspNet.AssemblyInfo.cs
 C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 01 - Calculator\RestAspNet\obj\Debug\netcoreapp2.0\RestAspNet.dll
 C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 01 - Calculator\RestAspNet\obj\Debug\netcoreapp2.0\RestAspNet.pdb
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\bin\Debug\netcoreapp2.0\RestAspNet.deps.json
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\bin\Debug\netcoreapp2.0\RestAspNet.runtimeconfig.json
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\bin\Debug\netcoreapp2.0\RestAspNet.runtimeconfig.dev.json
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\bin\Debug\netcoreapp2.0\RestAspNet.dll
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\bin\Debug\netcoreapp2.0\RestAspNet.pdb
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\obj\Debug\netcoreapp2.0\RestAspNet.csprojAssemblyReference.cache
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\obj\Debug\netcoreapp2.0\RestAspNet.csproj.CoreCompileInputs.cache
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\obj\Debug\netcoreapp2.0\RestAspNet.AssemblyInfoInputs.cache
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\obj\Debug\netcoreapp2.0\RestAspNet.AssemblyInfo.cs
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\obj\Debug\netcoreapp2.0\RestAspNet.dll
+C:\Users\Amanda Queiroz Nunes\Documents\ProjetoAulas\RestAspNet\RestAspNet 02 - Using Diferent Verbs\RestAspNet\obj\Debug\netcoreapp2.0\RestAspNet.pdb
